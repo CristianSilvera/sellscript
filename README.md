@@ -1,2 +1,2 @@
-# sellscript
+# shellscript
 Introducción a shell script
